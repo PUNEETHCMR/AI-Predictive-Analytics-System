@@ -232,7 +232,3 @@ redis==5.0.0
 - GitHub: [@PUNEETHCMR](https://github.com/PUNEETHCMR)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
